@@ -1,5 +1,8 @@
 {
-  "name": "chrome-store-api",
+  "name": "@hypnosphi/chrome-store-api",
+  "publishConfig": {
+    "access": "public"
+  },
   "version": "1.0.5",
   "description": "Chrome webstore API",
   "main": "out/index.js",
